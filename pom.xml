@@ -9,8 +9,8 @@
     <version>2.4.2</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>daily-workout</groupId>
-  <artifactId>demo</artifactId>
+  <groupId>com.jack2ee</groupId>
+  <artifactId>dailyworkout</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>daily-workout</name>
   <description>Daily workout is good for life!</description>
@@ -45,6 +45,10 @@
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
     </dependency>
   </dependencies>
 
