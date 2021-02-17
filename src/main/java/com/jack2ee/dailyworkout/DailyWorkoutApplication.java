@@ -1,4 +1,4 @@
-package dailyworkout.demo;
+package com.jack2ee.dailyworkout;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
